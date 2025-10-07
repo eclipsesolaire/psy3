@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/psy3/static/css/main.16872764.css",
+    "main.js": "/psy3/static/js/main.9ca84081.js",
+    "static/js/453.8e90ebe1.chunk.js": "/psy3/static/js/453.8e90ebe1.chunk.js",
+    "index.html": "/psy3/index.html",
+    "main.16872764.css.map": "/psy3/static/css/main.16872764.css.map",
+    "main.9ca84081.js.map": "/psy3/static/js/main.9ca84081.js.map",
+    "453.8e90ebe1.chunk.js.map": "/psy3/static/js/453.8e90ebe1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16872764.css",
+    "static/js/main.9ca84081.js"
+  ]
+}
